@@ -1,0 +1,52 @@
+Student ST-123456
+{
+"firstname": "Іван",
+"lastname": "Петренко",
+"course": "2",
+"studentTicket": "ST-123456",
+"birthDate": "15.01.2006",
+};
+Student ST-123457
+{
+"firstname": "Дмитро",
+"lastname": "Романюк",
+"course": "2",
+"studentTicket": "ST-123457",
+"birthDate": "20.12.2006",
+};
+Student ST-123458
+{
+"firstname": "Олег",
+"lastname": "Шевченко",
+"course": "3",
+"studentTicket": "ST-123458",
+"birthDate": "10.03.2005",
+};
+Student ST-123459
+{
+"firstname": "Анна",
+"lastname": "Коваль",
+"course": "1",
+"studentTicket": "ST-123459",
+"birthDate": "08.07.2007",
+};
+Student ST-123460
+{
+"firstname": "Максим",
+"lastname": "Мельник",
+"course": "2",
+"studentTicket": "ST-123460",
+"birthDate": "02.05.2006",
+};
+Painter Painter
+{
+"firstname": "Марія",
+"lastname": "Бондар",
+"style": "пейзаж",
+};
+Farmer Farmer
+{
+"firstname": "Петро",
+"lastname": "Ткаченко",
+"farm": "Сонячне",
+};
