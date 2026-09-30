@@ -1,5 +1,3 @@
 ## Діаграма класів
 
-![Діаграма класів](class-diagram.png)
-
-
+![Діаграма класів](docs/class-diagram.png)
